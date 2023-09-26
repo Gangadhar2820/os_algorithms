@@ -92,9 +92,7 @@ void main(){
         }
         //for tracing uncomment below line of code
         // printf("\ntime : %d -- %d\trunning : P%d\texecuted : %d\n",time,time+1,running,executed);
-
         
-
     }
 
     printf("\nId\tAT\tBT\tRT\tCT\tTAT\tWT\n");
