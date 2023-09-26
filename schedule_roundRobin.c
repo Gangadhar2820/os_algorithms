@@ -1,5 +1,5 @@
 /*
- * Non-preemtive Round Robin
+ * Preemptive Round Robin
  * Scheduling Algorithm in Operating System
  * @author : Rongala Gangadhar
  */
